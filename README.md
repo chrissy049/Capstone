@@ -4,8 +4,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 [Ask](https://github.com/chrissy049/Capstone/blob/main/README.md#ask), [Prepare](https://github.com/chrissy049/Capstone/blob/main/README.md#prepare), [Process](https://github.com/chrissy049/Capstone/blob/main/README.md#process), [Analyze](https://github.com/chrissy049/Capstone/blob/main/README.md#analyze-and-share), [Share](https://github.com/chrissy049/Capstone/blob/main/README.md#analyze-and-share), and [Act](https://github.com/chrissy049/Capstone/blob/main/README.md#act).
 ### Quick links:
 Data Source: [climatewatchdata.org](https://www.climatewatchdata.org/ghg-emissions?end_year=2020&regions=TOP&start_year=2005) [accessed on 09/09/23]  
-  
-  
+Imported Data: [CVS file](https://github.com/chrissy049/Capstone/blob/main/ghg-emissions%20(1).csv)
 Data Visualizations: [R](https://github.com/chrissy049/Capstone/blob/main/Visualizations.html)  
 ## Background
 ### CO2 Emissions
@@ -25,7 +24,8 @@ Questions that will guide the future environmental program:
 
 ## Prepare
 ### Data Source
-The data will be sourced from climatewatchdata.org to analyze and identify trends from 2005 to 2020 which can be downloaded from [climatewatchdata.org](https://www.climatewatchdata.org/ghg-emissions?end_year=2020&regions=TOP&start_year=2005). The data has been made available by Climate Watch. under this [license](https://www.climatewatchdata.org/about/permissions). This public and open data is used to gather insights on national and global progress on climate change for policymaking, research, media, and more. 
+Imported Data: [CVS file](https://github.com/chrissy049/Capstone/blob/main/ghg-emissions%20(1).csv)
+The data will be sourced from climatewatchdata.org to analyze and identify trends from 2005 to 2020 which can be downloaded from [climatewatchdata.org](https://www.climatewatchdata.org/ghg-emissions?end_year=2020&regions=TOP&start_year=2005). The data has been made available by Climate Watch under this [license](https://www.climatewatchdata.org/about/permissions). This public and open data is used to gather insights on national and global progress on climate change for policymaking, research, media, and more. 
 
 ### Data Organization
 On climatewatchdata website, there are multiple filters one can apply to produce a particular dataset. It can show data on a high-level and in-depth scale, factor in multiple data sources, specify certain gaseous chemicals, and more. The basic filters used for this analysis are data: collected only from Climate Watch, included top emitting countries, and time ranged from 2005 to 2020. 
