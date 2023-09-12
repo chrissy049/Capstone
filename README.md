@@ -1,7 +1,7 @@
 # Google Data Analytics Capstone: CO2 Emission Case Study
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 ## Introduction
-[Ask](https://github.com/chrissy049/Capstone/blob/main/README.md.md#ask), [Prepare](https://github.com/chrissy049/Capstone/blob/main/README.md.md#prepare), [Process](https://github.com/chrissy049/Capstone/blob/main/README.md.md#process), [Analyze](https://github.com/chrissy049/Capstone/blob/main/README.md.md#analyze-and-share), [Share](https://github.com/chrissy049/Capstone/blob/main/README.md.md#analyze-and-share), and [Act](https://github.com/chrissy049/Capstone/blob/main/README.md.md#act).
+[Ask](https://github.com/chrissy049/Capstone/blob/main/README.md#ask), [Prepare](https://github.com/chrissy049/Capstone/blob/main/README.md#prepare), [Process](https://github.com/chrissy049/Capstone/blob/main/README.md#process), [Analyze](https://github.com/chrissy049/Capstone/blob/main/README.md#analyze-and-share), [Share](https://github.com/chrissy049/Capstone/blob/main/README.md#analyze-and-share), and [Act](https://github.com/chrissy049/Capstone/blob/main/README.md#act).
 ### Quick links:
 Data Source: [climatewatchdata.org](https://www.climatewatchdata.org/ghg-emissions?end_year=2020&regions=TOP&start_year=2005) [accessed on 09/09/23]  
   
